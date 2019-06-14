@@ -24,17 +24,17 @@ module.exports = function(environment) {
     },
 
     blog: {
-      title: 'empress-blog',
-      description: 'Static Blog System - Built with Ember',
+      title: 'Alon Bukai Blog',
+      description: 'Alon Bukai\'s Blog',
       coverImage: '/images/blog-cover.jpg',
 
       navigation: [{
         label: 'Home',
         route: 'index'
       }, {
-        label: 'Built by Chris Manson',
+        label: 'Written by Alon Bukai',
         route: 'page',
-        id: 'chris-manson'
+        id: 'alon-bukai'
       }]
     },
 
