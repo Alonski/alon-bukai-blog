@@ -16,7 +16,7 @@ Ember.js is one of the most mature web frameworks in this day and age. The Ember
 
 ## Motivation
 
-I have been working on an [Ember](https://emberjs.com/) application at my _"first real developer job ™"_ for three years. In that time I have been to an EmberFest (Berlin), became part of [The Ember Times Newsletter](https://blog.emberjs.com/tags/newsletter.html), written an RFC or two, [adopted some addons](https://github.com/adopted-ember-addons/program-guidelines) and more. To sum that up, I have fallen in love with the Ember community as a whole. With the second [#EmberJS2019](https://twitter.com/search?q=emberjs2019) [call for blog posts](https://blog.emberjs.com/2019/05/20/ember-2019-roadmap-call-for-posts.html) underway I want to make my voice heard regarding the direction that, I think, Ember should take during the next Roadmap.
+I have been working on an [Ember](https://emberjs.com/) application at my _"first real developer job ™"_ for three years. In that time I have been to an EmberFest (Berlin), became part of [The Ember Times Newsletter](https://blog.emberjs.com/tags/newsletter.html), written an RFC or two, [adopted some addons](https://github.com/adopted-ember-addons/program-guidelines) and more. To sum it up, I have fallen in love with the Ember community as a whole. With the second [#EmberJS2019](https://twitter.com/search?q=emberjs2019) [call for blog posts](https://blog.emberjs.com/2019/05/20/ember-2019-roadmap-call-for-posts.html) underway I want to make my voice heard regarding the direction that, I think, Ember should take during the next Roadmap.
 
 ## More Tooling 🔧 🔨
 
