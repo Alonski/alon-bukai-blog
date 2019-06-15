@@ -24,8 +24,9 @@ module.exports = function(environment) {
     },
 
     blog: {
-      title: "Alon Bukai Blog",
-      description: "Alon Bukai's Blog",
+      title: "Alon Bukai's Blog",
+      description:
+        "Ember.js and C# Developer 🐹, Loving Husband ♥, Parent of a Dog 🐶",
       coverImage: "/images/blog-cover.jpg",
 
       navigation: [
