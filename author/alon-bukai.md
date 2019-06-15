@@ -1,10 +1,10 @@
 ---
 name: Alon Bukai
 id: alon
-image: /images/alon-icon.png
+image: /images/alon-icon.jpeg
 cover: /images/built-by.jpg
 website: https://alonbukai.com
-twitter: https://twitter.com/Alonski
+twitter: Alonski
 facebook:
 location: Israel
 ---
